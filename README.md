@@ -33,7 +33,7 @@ if you want to test it do ...
       rosrun image_view image_view image:=/robot/camera1/image_raw
 
 ## Now, edit in darknet the adress of the camera
-enter to the package "darknet_ros" then enter to the folder "darknet_ros" you will find the file "ros.yaml" and change the topic of your camera.
+enter to the package "darknet_ros" then enter to the folder "darknet_ros" you will find the file "ros.yaml" inside the folder "config" and change the topic of your camera.
 
 ##  Now, let's run the Computer Vision part by executing this command 
 
