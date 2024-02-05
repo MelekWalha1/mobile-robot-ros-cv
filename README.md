@@ -35,8 +35,7 @@ if you want to test it do ...
 ## Now, edit in darknet the adress of the camera
 enter to the package "darknet_ros" then enter to the folder "darknet_ros" you will find the file "ros.yaml" and change the topic of your camera.
 
-#  Now, let's run the Computer Vision part by executing this command 
+##  Now, let's run the Computer Vision part by executing this command 
 
       roslaunch darknet_ros darknet_ros.launch
 
-#t7eb ettastih od5ol ll "ielson" wzid chais
