@@ -29,7 +29,7 @@ this is the end of the first section which is moving the robot autonomosly the s
 ## The camera topic
 
       rostopic list 
-      
+![Darknet Ros example: Detection image](rostopic.png)
 as you see here the topic is .../image_raw
 if you want to test it do ...
 ## Test the camera of the mobile robot
