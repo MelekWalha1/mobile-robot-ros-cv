@@ -1,4 +1,5 @@
 # mobile-robot-ros-cv
+this project consist of creating a xacro and gazebo fils in URDF folder of a mobile robot with identifing it's mecanical caracteristics and positioning every component of the robot the chassi, the 4 wheels and the camera. In addition, writing a script in python to define a node for controling autonomosly the robot from point A to point B.
 ## tester la camera  
 
       roslaunch usb_cam usb_cam-test.launch
