@@ -2,8 +2,7 @@
 This project consist of creating xacro and Gazebo files within the URDF folder of a mobile robot. The objective is to define its mechanical characteristics and position of each component of this Robot, including the chassis, the 4 wheels, and the camera. Additionally, a Python script will be written to define a node for autonomously controlling the robot's movement from point A to point B (in this example I write a python pipeline named "main2.py" in src forlder to put the robot 
 moving from point (0,0) to point (5,5) the return to (0,0).
 
-![Darknet Ros example: Detection image](darknet_ros/doc/test_detection.png)
-![Darknet Ros example: Detection image](darknet_ros/doc/test_detection_anymal.png)
+![Darknet Ros example: Detection image](robot.png)
 
 # define the robot
 ## tester la camera  
